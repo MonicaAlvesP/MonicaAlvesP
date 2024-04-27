@@ -17,6 +17,11 @@ Apaixonada por tecnologia e designer, meus hobbies favoritos são ler, jogar, e 
 [![Instagram](https://img.shields.io/badge/Instagram-A7CFE8?style=for-the-badge&logo=instagram&logoColor=grey)](https://www.instagram.com/monicapereira.dev/)
 [![Facebook](https://img.shields.io/badge/Facebook-A7CFE8?style=for-the-badge&logo=facebook&logoColor=grey)](https://www.facebook.com/monicapereira.dev/)
 
+<h3 align="left">GitHub Stats</h3>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MonicaAlvesP&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=A7CFE8&text_color=FFF&border_radius=3&border_color=A7CFE8&icon_color=A7CFE8&theme=jolly)
+<br>
+
 <details align="left">
   <sumary></sumary>
 
