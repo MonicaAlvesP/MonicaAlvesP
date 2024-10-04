@@ -15,7 +15,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF7518?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monicapereira.dev/)
 [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/monicapereira.dev/)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MonicaAlvesP&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF7518&text_color=FFFFFF&border_radius=3&border_color=ADFF2F&icon_color=4B0082&theme=jolly)
 
 <h3 align="left"> Habilidades </h3>
 
@@ -26,6 +25,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ADFF2F?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-696969?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MonicaAlvesP&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF7518&text_color=FFFFFF&border_radius=3&border_color=ADFF2F&icon_color=4B0082&theme=jolly)
 
 
 <details align="left">
