@@ -6,8 +6,7 @@
     <img align="right" height="300" src="https://cdn.pixabay.com/photo/2024/09/29/08/05/pumpkins-9082990_1280.png" alt="Vector created by OpenClipart-Vectors from - www.pixaby.com"/>
     
   </h1>
-    <p align="justify">Desenvolvedora Fullstack com mais afinidade pelo Frontend. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e explorando cloud computing com serviços AWS. <br>
-                       Com base em Guarulhos-SP, minha jornada na tecnologia começou na adolescência e se intensificou a partir de 2021. Sou apaixonada por inovação tecnológica e design, e estou constantemente em busca de aprimoramento e novos desafios.</p>
+    <p align="justify">Desenvolvedora Fullstack com mais afinidade pelo Frontend. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e explorando cloud computing com serviços AWS. Com base em Guarulhos-SP, minha jornada na tecnologia começou na adolescência e se intensificou a partir de 2021. Sou apaixonada por inovação tecnológica e design, e estou constantemente em busca de aprimoramento e novos desafios.</p>
 </div>
 
 <h3> Meus Contatos </h3>
@@ -35,6 +34,6 @@
   - Badges by <a href="https://dev.to/envoy_/150-badges-for-github-pnk">dev.to</a>
 
   <div align="right">
-    Feito com 🩵 por <a href="https://github.com/MonicaAlvesP?tab=repositories">MA</a>
+    Feito com 🎃 por <a href="https://github.com/MonicaAlvesP?tab=repositories">MA</a>
   </div>
 </details>
