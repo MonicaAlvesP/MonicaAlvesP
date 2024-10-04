@@ -12,22 +12,21 @@
 
 <h3> Meus Contatos </h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/monica-apereira/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF6EC7?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/monicapereira.dev/)
-[![Facebook](https://img.shields.io/badge/Facebook-1F51FF?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/monicapereira.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-apereira/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF7518?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monicapereira.dev/)
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/monicapereira.dev/)
 
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MonicaAlvesP&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF08F6&text_color=FFF&border_radius=3&border_color=CEFF08&icon_color=6308FF&theme=jolly)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MonicaAlvesP&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF7518&text_color=FFFFFF&border_radius=3&border_color=ADFF2F&icon_color=4B0082&theme=jolly)
 
 <h3 align="left"> Habilidades </h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-CEFF08?style=for-the-badge&logo=html5&logoColor=grey)
-![CSS3](https://img.shields.io/badge/CSS3-8B08FF?style=for-the-badge&logo=css3&logoColor=grey)
-![Tailwind](https://img.shields.io/badge/tailwindcss-3B08FF.svg?style=for-the-badge&logo=tailwind-css&logoColor=grey)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7FF08?style=for-the-badge&logo=javascript&logoColor=grey)
-![React](https://img.shields.io/badge/React-CD0C0F?style=for-the-badge&logo=react&logoColor=grey)
-![Python](https://img.shields.io/badge/python-DD08FF?style=for-the-badge&logo=python&logoColor=grey)<br><br>
-
+![HTML5](https://img.shields.io/badge/HTML5-FF7518?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-FF7518?style=for-the-badge&logo=mui&logoColor=007FFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-ADFF2F?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-696969?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 
 <details align="left">
