@@ -20,6 +20,6 @@
   - Badges by <a href="https://dev.to/envoy_/150-badges-for-github-pnk">dev.to</a>
 
   <div align="right">
-    Feito com 🎃 por <a href="https://github.com/MonicaAlvesP?tab=repositories">MA</a>
+    Feito com ✌️ por <a href="https://github.com/MonicaAlvesP?tab=repositories">MA</a>
   </div>
 </details>
