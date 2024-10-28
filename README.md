@@ -3,9 +3,11 @@
   <h1>
     <a href="https://github.com/MonicaAlvesP?tab=repositories"></a>
     Olá! Me chamo Mônica.
-    <img align="right" height="250" src="https://cdn.pixabay.com/photo/2017/08/26/10/16/rabbit-2682646_1280.png" alt="Vector created by OpenClipart-Vectors from - www.pixaby.com"/>
+    <img align="right" height="200" src="https://cdn.pixabay.com/photo/2022/08/31/19/10/ukraine-7424066_1280.png" alt="Vector created by OpenClipart-Vectors from - www.pixaby.com"/>
   </h1>
-    <p align="justify">Sou desenvolvedora Fullstack com um foco especial no Frontend. Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas. Nascida em Guarulhos-SP, hoje resido em Mateus Leme-MG. Minha jornada na tecnologia começou na adolescência e ganhou força a partir de 2021. Tenho uma paixão por inovação tecnológica e design, e estou sempre em busca de novos desafios e oportunidades de aprimoramento.</p>
+  <p align="justify">Sou desenvolvedora Fullstack com um foco especial no Frontend. Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas. Nascida em Guarulhos-SP, hoje resido em Mateus Leme-MG. Minha jornada na tecnologia começou na adolescência e ganhou força a partir de 2021. Tenho uma paixão por inovação tecnológica e design, e estou sempre em busca de novos desafios e oportunidades de aprimoramento.</p>
+  </div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-apereira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monicapereira.dev/)
