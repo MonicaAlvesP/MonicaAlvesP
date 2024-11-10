@@ -1,10 +1,8 @@
 <div align="justify">
   <img align="right" height="120" src="./assets/boneca-vodu.png" alt="Vector created by OpenClipart-Vectors from - www.pixaby.com"/>
 
-  <h1>
-  <a href="https://github.com/MonicaAlvesP?tab=repositories">Olá! Me chamo Mônica.</a>
-  </h1>
-  <p align="justify">Sou desenvolvedora Fullstack com um foco especial no Frontend. Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas. Nascida em Guarulhos-SP, hoje resido em Mateus Leme-MG. Minha jornada na tecnologia começou na adolescência e ganhou força a partir de 2021. Tenho uma paixão por inovação tecnológica e design, e estou sempre em busca de novos desafios e oportunidades de aprimoramento.</p>
+  <h1>Bem-vindo ao meu perfil!</h1>
+  <p align="justify">Me chamo Mônica, sou desenvolvedora Fullstack com um foco especial no Frontend. Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas.Minha jornada na tecnologia começou na adolescência e ganhou força a partir de 2021. Tenho paixão por inovação tecnológica e design, e estou sempre em busca de novos desafios e oportunidades de aprimoramento.</p>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-apereira/)
