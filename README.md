@@ -1,8 +1,10 @@
 ![Banner](./Mônica%20Alves%20Pereira.gif)
 
-Desenvolvedora **Fullstack** com foco em **Cibersegurança** e formação em **Análise e Desenvolvimento de Sistemas**. Trabalho com desenvolvimento web e estudo contínuo de redes, segurança da informação e infraestrutura. Busco aplicar conhecimentos técnicos em projetos reais, valorizando a prática como ferramenta de aprendizado.
+Sou Mônica Alves, desenvolvedora **fullstack** com foco em soluções escaláveis e interesse crescente em Cloud Computing, especialmente na stack **Google Cloud**. Tenho experiência sólida no desenvolvimento de interfaces modernas com React.js, consumo de APIs REST, modelagem de bancos de dados e versionamento com Git/GitHub.
 
-Participei de programas como **Vai na Web** e **Ada Tech**, com foco em tecnologias modernas, versionamento e metodologias ágeis. Tenho interesse em ambientes Linux, automação com Docker, redes Cisco e fundamentos de hacking ético.
+Atuo de forma autodidata, movida por desafios reais e pela vontade de criar soluções que impactem positivamente a vida das pessoas. Estou cursando **Análise e Desenvolvimento de Sistemas** e complementando minha formação com certificações práticas em infraestrutura, segurança e DevOps.
+
+Além da tecnologia, trago um olhar humano para tudo que construo — minha motivação está em unir conhecimento técnico e sensibilidade para criar produtos acessíveis, inclusivos e funcionais. Meu objetivo é ir além do código: quero usar a tecnologia como ferramenta para transformação social.
 
 ---
 
